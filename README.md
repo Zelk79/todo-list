@@ -7,4 +7,5 @@
 - **Instalación**: npm install 
 - **Ejecutar el proyecto**: npm run dev 
 
+- ** Fortino Maldonado Bernal **
 ---
